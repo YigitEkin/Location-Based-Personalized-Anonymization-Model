@@ -1,6 +1,6 @@
 # K-Anonymity Mobile Location Privacy
 
-A tool that implements the algorithm presented in the paper [Location Privacy in Mobile Systems: A Personalized Anonymization Model](http://ieeexplore.ieee.org/document/1437123) to achieve k-anonymity on location data. Link to our own paper: [Implementing & Comparing Noise Addition by Satisfying Geo-indistinguishability & Aggregating Data for k-Anonymity]
+A tool that implements the algorithm presented in the paper [Location Privacy in Mobile Systems: A Personalized Anonymization Model](http://ieeexplore.ieee.org/document/1437123) to achieve k-anonymity on location data. Link to our own paper: [Implementing & Comparing Noise Addition by Satisfying Geo-indistinguishability & Aggregating Data for k-Anonymity](https://github.com/YigitEkin/Location-Based-Personalized-Anonymization-Model/blob/main/paper/paper.pdf)
 
 ## Getting Started
 
